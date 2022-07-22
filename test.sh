@@ -1,3 +1,3 @@
-echo 'This is the test data'
-echo 'date'
+echo "This is the test data"
+echo 'ls'
 
